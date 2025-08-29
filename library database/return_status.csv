@@ -1,0 +1,16 @@
+return_id,issued_id,return_book_name,return_date,return_book_isbn
+RS104,IS106,Animal Farm,5/1/2024,978-0-330-25864-8
+RS105,IS107,One Hundred Years of Solitude,5/3/2024,978-0-14-118776-1
+RS106,IS108,The Great Gatsby,5/5/2024,978-0-525-47535-5
+RS107,IS109,Jane Eyre,5/7/2024,978-0-141-44171-6
+RS108,IS110,The Alchemist,5/9/2024,978-0-307-37840-1
+RS109,IS111,Harry Potter and the Sorcerers Stone,5/11/2024,978-0-679-76489-8
+RS110,IS112,A Game of Thrones,5/13/2024,978-0-09-957807-9
+RS111,IS113,A Peoples History of the United States,5/15/2024,978-0-393-05081-8
+RS112,IS114,The Guns of August,5/17/2024,978-0-19-280551-1
+RS113,IS115,The Histories,5/19/2024,978-0-14-044930-3
+RS114,IS116,"Guns, Germs, and Steel: The Fates of Human Societies",5/21/2024,978-0-393-91257-8
+RS115,IS117,1984,5/23/2024,978-0-330-25864-9
+RS116,IS118,Pride and Prejudice,5/25/2024,978-0-14-118776-2
+RS117,IS119,Brave New World,5/27/2024,978-0-525-47535-6
+RS118,IS120,The Road,5/29/2024,978-0-141-44171-7
